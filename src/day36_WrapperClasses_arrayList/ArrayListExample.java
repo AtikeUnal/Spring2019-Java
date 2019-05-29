@@ -26,7 +26,7 @@ public class ArrayListExample {
 		//remove java
 		languages.remove(0);
 		System.out.println("Number of values: "+languages.size());
-System.out.println(languages.toString());
+		System.out.println(languages.toString());
 	}
 
 }
